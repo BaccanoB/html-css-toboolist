@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+    padding: 0;
+}
+ 
+/* Common */
+
+body{
+     font-family:Arial, sans-serif ;
+}
+
+.title {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+/* Header */
+
+header{
+    height: 70px;
+}
+
+
+
+h1 {
+    color: #031732;
+    font-size: 40px;
+    
+}
+
+ #logo {
+    line-height: 70px;
+    margin:5px 15px;
+}
